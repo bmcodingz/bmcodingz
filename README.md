@@ -40,11 +40,11 @@
 
 <h2>📞 &nbsp; Connect Me </h2>
 
-  <a href="https://instagram.com/bmcodingz">
-  <img src="https://img.shields.io/badge/Instagram-@bmcodingz-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  <a href="https://instagram.com/bmcodez">
+  <img src="https://img.shields.io/badge/Instagram-@bmcodez-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
-<a href="https://t.me/bmcodingz">
-  <img src="https://img.shields.io/badge/Telegram-@bmcodingz-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
+<a href="https://t.me/bmcodez">
+  <img src="https://img.shields.io/badge/Telegram-@bmcodez-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
 </a>
 
 </p>
