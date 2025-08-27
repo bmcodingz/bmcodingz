@@ -5,7 +5,7 @@
 <h2>I'm Behnam Zarghami</h2>
 <h3>👨‍💻 &nbsp; About Me</h3>
 
-- 🤔 &nbsp; I'm here to get better
+- 🤔 &nbsp; I'm passionate about improving my skills every day
 - 🎓 &nbsp; Student of Computer Engineering In University of Bojnord
 - 💼 &nbsp; Working as a Front-End Developer
 - 🌱 &nbsp; Learning React
@@ -33,7 +33,7 @@
 
 <h2>⚡️ &nbsp; Github Stats</h2>
 
-<a href="https://github.com/sabzlearn-ir">
+<a href="https://github.com/bmcodingz">
   <img src="https://github-readme-stats.vercel.app/api?username=bmcodingz&show_icons=true&theme=radical" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bmcodingz&hide_progress=true" />
 </a>
